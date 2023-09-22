@@ -7,5 +7,7 @@
   
 
 Classification 모델 학습을 위한 dataset (이미 학습된 train_data.npy 사용 가능) 
+Face shape predictor model: https://drive.google.com/file/d/1qtV_Cl6l1_Emp-Z8z5rcKidLZx96CAlp/view?usp=drive_link
+train_data.npy:https://drive.google.com/file/d/1Z8YO-irRw-cI82mRmulk2dCUTU6xBIY1/view?usp=drive_link
 Image without mask : https://drive.google.com/drive/folders/1l9i-WsJNAaHCdxp9AksTbyinhmtVJxmE?usp=drive_link
 Image with mask: https://drive.google.com/drive/folders/1mIHOPwbuqYr0mp5OJqOJPkcg5LfT_P82?usp=drive_link
